@@ -43,7 +43,7 @@ paginate: true
   }
 </style>
 
-# 확률과 통계 HW 3
+# 확률과 통계 Term Project
 
 ##### Relations between Poisson & Exponential Dist.
 
